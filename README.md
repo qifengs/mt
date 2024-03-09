@@ -5,10 +5,11 @@
 
 #### 软件架构
 Java+MySql+redis+vue
-![](img_1.png)
+ ![img.png](img_1.png)
+
 
 #### 系统截图
-![](images/tu/002.png)
+![](002.png)
 
 #### 在线体验/咨询
  ![img.png](img.png)
