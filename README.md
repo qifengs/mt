@@ -5,14 +5,14 @@
 
 #### 软件架构
 Java+MySql+redis+vue
- ![img.png](img_1.png)
- ![img.png](./img_1.png)
+ ![img.png]([img_1.png](http://qifengs.vip/mt/img/flow.jpg))-
+ ![img.png](http://qifengs.vip/mt/img/flow.jpg)
 
 #### 系统截图
 ![](002.png)
 
 #### 在线体验/咨询
- ![img.png](img.png)
+ ![img.png]([img.png](http://qifengs.vip/mt/img/wechar.png))
 
 
 #### 特点
