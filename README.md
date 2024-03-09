@@ -6,7 +6,7 @@
 #### 软件架构
 Java+MySql+redis+vue
  ![img.png](img_1.png)
- ![img.png](/img_1.png)
+ ![img.png](./img_1.png)
 
 #### 系统截图
 ![](002.png)
