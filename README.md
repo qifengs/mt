@@ -4,14 +4,14 @@
 具备各种批量快捷操作功能，包括售前、收件、流转、审核、出证、发放等流程。证书模板化、标签管理、易编辑、快速打印，生成PDF电子证书，证书签名、电子签章、骑缝章、可网上验真查询。深入结合Excel，能操作Excel就会编辑证书，原始记录管理，证书修改痕迹查询，报告管理助手，能无缝兼容各种主流浏览器 按ISO/IEC体系建设,满足实验室审核要求。http://www.qifengs.vip/mt
 
 #### 软件架构
-Java+MySql+redis+vue
+Java+MySql+redis+vue3
  ![img.png](http://qifengs.vip/mt/img/flow.jpg)
 
 #### 系统截图
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40aiwarts&style=social&url=https%3A%2F%2Ftwitter.com%2Flearnprompting)](https://twitter.com/aiwarts?s=21&t=bh5DcWYZX2rSeis-DiWzvA)
+http://www.qifengs.vip/mt
 
 #### 在线体验/咨询
- ![img.png]((http://qifengs.vip/mt/img/wechar.png))
+ ![img.png](http://qifengs.vip/mt/img/wechar.png)
 
 
 #### 特点
